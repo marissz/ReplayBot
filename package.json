@@ -1,0 +1,27 @@
+{
+  "name": "replaybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RLBCSbot.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^6.1.0",
+    "google-spreadsheet": "^2.0.6",
+    "googleapis": "^27.0.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marissz/ReplayBot.git"
+  },
+  "author": "htky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marissz/ReplayBot/issues"
+  },
+  "homepage": "https://github.com/marissz/ReplayBot#readme"
+}
